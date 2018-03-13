@@ -1,6 +1,6 @@
 {
   "name": "random-access-null",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "random-access-storage compliant null writer like a write to /dev/null",
   "main": "index.js",
   "scripts": {
