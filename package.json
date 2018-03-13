@@ -1,0 +1,32 @@
+{
+  "name": "random-access-null",
+  "version": "1.0.0",
+  "description": "random-access-storage compliant null writer like a write to /dev/null",
+  "main": "index.js",
+  "scripts": {
+    "test": ":"
+  },
+  "keywords": [
+    "random",
+    "access",
+    "storage",
+    "null",
+    "dev"
+  ],
+  "author": "Joseph Werle <joseph.werle@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "random-access-storage": "^1.1.1"
+  },
+  "devDependencies": {
+    "tape": "^4.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwerle/random-access-null.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jwerle/random-access-null/issues"
+  },
+  "homepage": "https://github.com/jwerle/random-access-null#readme"
+}
