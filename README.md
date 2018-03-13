@@ -1,7 +1,7 @@
 random-access-null
 ==================
 
-[random-access-storage](random-access-storage) compliant null writer like a
+[random-access-storage][random-access-storage] compliant null writer like a
 write to `/dev/null`. All writes are discarded, all reads return a zero
 buffer, and all stats return a stat with `size` set to `0`.
 
